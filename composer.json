@@ -1,0 +1,10 @@
+{
+   "require":{
+        "slim/slim":"2.*"
+    },
+    "extras":{
+       "heroku":{
+            "index-document":"index.php"
+           }
+        }
+}
